@@ -9,8 +9,8 @@
 Clone this repository to your local machine using Git.
 
 ```scheme
-git clone https://github.com/immois/astro-zen.git
-cd astro-zen
+git clone git@github.com:coderCadu/portfolio.git
+cd portfolio
 ```
 
 | Command        | Action                                       |
