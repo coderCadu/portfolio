@@ -33,33 +33,57 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "Telefonica BR (Vivo)",
+      position: "Desenvolvedor Fullstack Sr",
+      startDate: "Maio 2025",
+      endDate: "Atual",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "Mentorei outra desenvolvedora da squad que foi promovida da estágiaria para desenvolvedora pleno.",
+        "Participo, junto ao tech lead, das definições das histórias e seus pontos técnicos antes de descer para a squad.",
+        "Codifiquei o projeto que atualiza a interface do eSIM B2B para que a interface tenha um design mais atual com responsividade e acessibilidade",
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Telefonica BR (Vivo)",
+      position: "Desenvolvedor Fullstack Pl",
+      startDate: "Outubro 2022",
+      endDate: "Maio 2025",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Desenvolvi no projeto eSIM B2B para criar uma interface de gestão dos chips eSIM para os gestores e colaboradores das empresas. Teve mais de 10 mil ativações nos primeiros dias disponível.",
+        "Codifiquei uma evolução do eSIM B2B na qual os gestores poderiam fazer a ativação de múltiplos chips. Necessidade de muitos gestores já que dificilmente ativará somente 1 chip.",
+        "Fiz a otimização do pacote da aplicação que meu squad era responsável reduzindo os tempos de carregamento do módulo em até 30%.",
+        "Particapação no SRE B2B para lidar com situações críticas e manter o sistema estável.",
+        "Fiz o processo de onboarding de muitos desenvolvedores e arquitetos para que eles pudessem performar da melhor forma quando estivessem na squad que pertenciam.",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Telefonica BR (Vivo)",
+      position: "Desenvolvedor Fullstack Jr",
+      startDate: "Agosto 2021",
+      endDate: "Outubro 2022",
+      summary: [
+        "Codifiquei o projeto gestão de linhas em que usuários de planos B2B com características específicas poderiam administrar a quantidade de dados e minutos que alocariam nos telefones corporativos por uma interface web garantindo uma melhor experiência do usuário. Esse projeto era fundamental para a alocação de dados e minutos nos aparelhos.",
+        "Participação ativa nas discussões técnicas do time em que eram pensadas diversas formas de chegar nas soluções para o projeto do gestão de linhas.",
+      ]
+    },
+    {
+      company: "Pontaltech",
+      position: "Desenvolvedor Backend Jr | Node",
+      startDate: "Janeiro 2020",
+      endDate: "Novembro 2020",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Desenvolvi junto ao time o projeto Verified SMS que em parceria ao Google verifica se a empresa remetente das mensagens é ela mesma, dando maior segurança no processo de conversas via SMS. No momento do desenvolvimento funcionava somente no aplicativo de mensagens da Google.",
+    },
+    {
+      company: "Indigosoft",
+      position: "Desenvolvedor Fullstack | Estágio",
+      startDate: "Agosto 2019",
+      endDate: "Janeiro 2020",
+      summary: [
+        "Desenvolvi bots em C#/.NET para automação de processos. O que reduziu o tempo para executar as ações nos legados da Sky deixando o processo de contratação, alteração e cancelamento de planos mais eficiente.",
+        "Desenvolvi scripts para web scrapping usando C# para compor o fluxo de RPA da empresa sendo esse o principal produto deles.",
+        "Criei aplicações web com Razor Syntax, Microsoft Web Server, SQL Server e C#. Aplicações para servir de interface para as empresas usarem as automações de forma mais fácil e com velocidade para resolver seus problemas."
+      ],
     },
   ],
   projects: [
