@@ -1,23 +1,23 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
-  author: "Alejandro Múnez Cuntez",
+  title: "Carlos Silva — Desenvolvedor Web Fullstack",
+  author: "Carlos Silva",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-  lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+    "Desenvolvedor de São Paulo (ZO). Sou especializado no desenvolvimento de aplicações web e também aplico práticas de DevOps no meu dia a dia.",
+  lang: "pt-BR",
+  siteLogo: "/carlos.jpeg",
   navLinks: [
-    { text: "Experience", href: "#experience" },
-    { text: "Projects", href: "#projects" },
-    { text: "About", href: "#about" },
+    { text: "Experiência", href: "#experience" },
+    { text: "Projetos", href: "#projects" },
+    { text: "Sobre", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    // { text: "Twitter", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/codercadu/" },
+    { text: "Github", href: "https://github.com/coderCadu/" },
+    // { text: "Youtube", href: "https://github.com/immois/astro-zen" },
+    // { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -25,11 +25,11 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Carlos Silva",
+    specialty: "Desenvolvedor Web Fullstack",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Desenvolvedor de São Paulo (ZO). Sou especializado no desenvolvimento de aplicações web e também aplico práticas de DevOps no meu dia a dia.",
+    email: "carlosedu.waldorf@gmail.com",
   },
   experience: [
     {
@@ -91,7 +91,7 @@ export const SITE_CONTENT: SiteContent = {
 
       Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/carlos.jpeg",
   },
 };
 
