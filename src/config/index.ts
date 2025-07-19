@@ -111,9 +111,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+      Olá, sou Carlos Silva, Desenvolvedor Fullstack Sênior com foco em aplicações web e backend distribuído. Com experiência sólida em NodeJS, Go, React e VueJS, gosto de construir soluções eficientes, seguras e escaláveis.
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Ao longo da carreira, participei de projetos de alto impacto como o sistema de eSIM B2B da Vivo e a solução de Verified SMS em parceria com o Google. Atuo na junção entre código limpo, boas práticas de arquitetura e experiência do usuário, sempre com foco em performance e colaboração entre times.
     `,
     image: "/carlos.jpeg",
   },
