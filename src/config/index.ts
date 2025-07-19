@@ -88,26 +88,26 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      name: "Hackclub",
+      summary: "Uma plataform sendo desenvolvida no curso.dev para ser similar ao Tabnews, mas com diferenças de código de cada desenvolvedor. Plataforma sendo desenvolvida de forma API First.",
+      linkPreview: "https://www.hackclub.com.br/",
+      linkSource: "https://github.com/coderCadu/hackclub/",
+      image: "/hackclub.png",
     },
-    {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
-    },
-    {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
-    },
+    // {
+    //   name: "Shopp App",
+    //   summary: "An e-commerce platform that replicates Shopify's key features.",
+    //   linkPreview: "/",
+    //   linkSource: "https://github.com/immois/astro-zen",
+    //   image: "/shopify-clon.png",
+    // },
+    // {
+    //   name: "ClonTagram",
+    //   summary: "A social network that replicates the features of Instagram",
+    //   linkPreview: "/",
+    //   linkSource: "https://github.com/immois/astro-zen",
+    //   image: "/clone-ig.png",
+    // },
   ],
   about: {
     description: `
