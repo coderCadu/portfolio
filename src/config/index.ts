@@ -19,8 +19,9 @@ export const SITE_CONFIG: SiteConfig = {
     // { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     // { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
-  socialImage: "/zen-og.png",
-  canonicalURL: "http://localhost:4321/",
+  socialImage: "/portfolio.png",
+  canonicalURL: "https://codercadu.dev.br/",
+
 };
 
 export const SITE_CONTENT: SiteContent = {
@@ -90,7 +91,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Hackclub",
       summary: "Uma plataform sendo desenvolvida no curso.dev para ser similar ao Tabnews, mas com diferenças de código de cada desenvolvedor. Plataforma sendo desenvolvida de forma API First.",
-      linkPreview: "https://www.hackclub.com.br/",
+      linkPreview: "https://www.hackclub.com.br/status",
       linkSource: "https://github.com/coderCadu/hackclub/",
       image: "/hackclub.png",
     },
